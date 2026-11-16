@@ -1,0 +1,5 @@
+scikit-learn>=1.4
+pytest>=8.0
+# Optional AI summary: install the one for your provider
+# openai>=1.0       (OpenAI, Ollama, Groq, Together, vLLM...)
+# anthropic>=0.40
